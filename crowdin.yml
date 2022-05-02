@@ -1,0 +1,3 @@
+files:
+  - source: /src/po/en_GB.po
+    translation: /src/%two_letters_code%/%original_file_name%
